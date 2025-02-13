@@ -15,12 +15,4 @@ Code, Compile, Run and Debug online from anywhere in world.
 //     return 0;
 // }
 
-// *******************************************************************************/
-// #include <stdio.h>
 
-// int main()
-// {
-//     printf("Hello World");
-
-//     return 0;
-// }

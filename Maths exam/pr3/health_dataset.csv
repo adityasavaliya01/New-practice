@@ -1,0 +1,301 @@
+record_id,age,weight,gender,region,smoking_status,exercise_frequency,bmi,blood_pressure,cholesterol_level,glucose_level,diabetes,hypertension,visit_date,age_group
+RID1,56,76,Male,North,Smoker,Rarely,17.19,136.4,184.1,131.6,True,False,2023-01-01,46-60
+RID2,69,99,Male,South,Former Smoker,Rarely,23.88,117.6,178.6,110.3,True,False,2023-01-02,60+
+RID3,46,53,Female,East,Former Smoker,Never,26.43,143.8,187.4,108.6,True,True,2023-01-03,46-60
+RID4,32,85,Male,East,Former Smoker,Daily,22.65,154.6,194.6,107.6,False,True,2023-01-04,26-35
+RID5,60,79,Male,North,Former Smoker,Never,24.23,115.2,207.6,90.2,False,True,2023-01-05,46-60
+RID6,25,63,Male,North,Smoker,Daily,24.38,113.2,205.3,105.9,True,False,2023-01-06,18-25
+RID7,38,92,Female,North,Former Smoker,Rarely,30.43,122.2,117.0,81.5,False,True,2023-01-07,36-45
+RID8,56,60,Female,South,Non-Smoker,Rarely,23.56,112.8,187.1,110.1,False,False,2023-01-08,46-60
+RID9,36,47,Male,North,Non-Smoker,Rarely,30.43,110.6,144.7,117.4,False,False,2023-01-09,36-45
+RID10,40,64,Female,East,Former Smoker,Never,14.15,111.9,181.7,92.4,False,True,2023-01-10,36-45
+RID11,28,68,Female,East,Former Smoker,Weekly,30.39,145.7,186.3,88.1,False,False,2023-01-11,26-35
+RID12,28,98,Female,North,Non-Smoker,Weekly,30.19,131.6,219.3,75.8,False,False,2023-01-12,26-35
+RID13,41,77,Female,North,Non-Smoker,Rarely,28.61,112.8,189.1,129.2,False,True,2023-01-13,36-45
+RID14,53,68,Female,West,Smoker,Weekly,16.95,83.2,197.8,89.7,False,False,2023-01-14,46-60
+RID15,57,96,Male,East,Non-Smoker,Weekly,29.08,96.8,213.8,96.0,True,True,2023-01-15,46-60
+RID16,41,55,Male,South,Non-Smoker,Never,24.8,127.6,226.8,106.0,False,False,2023-01-16,36-45
+RID17,20,93,Male,West,Former Smoker,Daily,14.88,88.2,186.3,105.6,True,False,2023-01-17,18-25
+RID18,39,52,Female,North,Non-Smoker,Rarely,30.19,124.4,192.8,114.9,False,False,2023-01-18,36-45
+RID19,19,80,Female,North,Smoker,Rarely,30.78,104.0,190.3,92.4,True,False,2023-01-19,18-25
+RID20,41,82,Male,East,Non-Smoker,Never,17.38,121.4,173.7,77.2,False,False,2023-01-20,36-45
+RID21,61,84,Female,North,Former Smoker,Never,25.7,121.0,166.9,73.7,False,False,2023-01-21,60+
+RID22,47,64,Male,South,Former Smoker,Weekly,30.55,121.8,121.8,88.4,False,True,2023-01-22,46-60
+RID23,55,79,Male,East,Non-Smoker,Rarely,29.92,114.1,157.7,81.0,True,True,2023-01-23,46-60
+RID24,19,92,Male,North,Former Smoker,Daily,28.34,113.6,136.6,93.9,False,False,2023-01-24,18-25
+RID25,38,69,Female,East,Smoker,Never,14.41,109.2,227.7,126.2,False,False,2023-01-25,36-45
+RID26,50,79,Female,North,Smoker,Daily,27.92,127.3,195.7,92.5,False,False,2023-01-26,46-60
+RID27,29,69,Male,North,Non-Smoker,Daily,24.13,132.1,186.2,92.4,True,False,2023-01-27,26-35
+RID28,39,73,Male,North,Non-Smoker,Rarely,28.98,101.7,168.5,99.7,False,False,2023-01-28,36-45
+RID29,61,62,Male,South,Non-Smoker,Rarely,26.02,119.2,190.9,91.9,True,True,2023-01-29,60+
+RID30,42,90,Male,South,Former Smoker,Never,24.92,122.9,164.6,98.7,True,False,2023-01-30,36-45
+RID31,66,62,Female,East,Smoker,Rarely,27.56,122.8,195.2,110.8,False,False,2023-01-31,60+
+RID32,44,46,Female,North,Smoker,Rarely,24.31,122.5,197.4,117.7,False,True,2023-02-01,36-45
+RID33,59,98,Male,North,Former Smoker,Rarely,24.9,114.0,164.2,120.1,False,True,2023-02-02,46-60
+RID34,45,79,Male,South,Smoker,Daily,22.78,124.2,163.6,141.1,False,True,2023-02-03,36-45
+RID35,33,60,Female,North,Non-Smoker,Never,18.58,129.3,218.9,111.4,False,False,2023-02-04,26-35
+RID36,32,85,Female,South,Non-Smoker,Weekly,27.27,122.1,188.4,144.7,False,False,2023-02-05,26-35
+RID37,64,80,Male,North,Non-Smoker,Daily,21.78,127.6,166.6,84.5,False,True,2023-02-06,60+
+RID38,68,77,Male,East,Smoker,Rarely,24.2,134.9,178.9,141.8,False,True,2023-02-07,60+
+RID39,61,48,Male,North,Non-Smoker,Daily,26.15,92.2,159.7,92.4,True,True,2023-02-08,60+
+RID40,69,77,Female,North,Former Smoker,Rarely,16.66,134.2,188.0,94.4,False,False,2023-02-09,60+
+RID41,20,58,Female,West,Former Smoker,Rarely,17.55,125.1,214.9,97.6,False,False,2023-02-10,18-25
+RID42,54,65,Female,South,Smoker,Daily,23.8,103.3,189.2,95.6,True,False,2023-02-11,46-60
+RID43,68,92,Male,North,Former Smoker,Never,26.82,132.0,260.9,101.7,False,False,2023-02-12,60+
+RID44,24,64,Male,North,Former Smoker,Rarely,27.98,114.0,202.6,88.4,False,False,2023-02-13,18-25
+RID45,38,52,Female,West,Smoker,Never,18.63,116.1,196.9,116.6,False,False,2023-02-14,36-45
+RID46,26,51,Female,West,Non-Smoker,Weekly,27.55,112.4,162.8,88.9,False,False,2023-02-15,26-35
+RID47,56,47,Male,South,Non-Smoker,Rarely,24.02,124.5,182.8,113.1,False,True,2023-02-16,46-60
+RID48,35,61,Female,West,Non-Smoker,Never,21.47,108.2,166.6,130.6,False,True,2023-02-17,26-35
+RID49,21,77,Female,East,Smoker,Never,22.41,133.5,125.0,92.9,False,True,2023-02-18,18-25
+RID50,42,92,Male,West,Former Smoker,Weekly,28.21,117.9,219.2,115.9,False,True,2023-02-19,36-45
+RID51,31,56,Female,East,Non-Smoker,Never,26.1,114.5,174.7,111.2,False,False,2023-02-20,26-35
+RID52,67,95,Male,South,Non-Smoker,Never,25.2,131.3,167.2,145.1,True,False,2023-02-21,60+
+RID53,26,66,Male,South,Smoker,Weekly,25.97,115.2,196.3,89.9,True,True,2023-02-22,26-35
+RID54,43,99,Male,South,Non-Smoker,Rarely,28.71,134.2,205.4,115.9,False,False,2023-02-23,36-45
+RID55,19,66,Male,South,Smoker,Never,24.61,134.7,180.4,67.5,False,False,2023-02-24,18-25
+RID56,37,90,Male,South,Former Smoker,Never,25.22,100.0,189.9,90.1,False,True,2023-02-25,36-45
+RID57,45,74,Male,East,Smoker,Never,29.55,136.6,212.4,107.1,False,False,2023-02-26,36-45
+RID58,64,82,Male,East,Smoker,Daily,23.67,98.1,179.2,127.9,True,False,2023-02-27,60+
+RID59,24,82,Female,South,Smoker,Weekly,27.47,137.6,199.1,75.5,True,False,2023-02-28,18-25
+RID60,61,89,Male,West,Smoker,Daily,22.99,150.4,140.2,115.7,False,True,2023-03-01,60+
+RID61,25,95,Male,North,Former Smoker,Weekly,23.34,133.1,152.8,98.7,True,True,2023-03-02,18-25
+RID62,64,98,Female,South,Former Smoker,Rarely,24.58,87.6,208.2,69.6,True,False,2023-03-03,60+
+RID63,52,52,Female,West,Non-Smoker,Rarely,27.06,136.0,151.2,103.6,True,True,2023-03-04,46-60
+RID64,31,71,Female,North,Former Smoker,Never,29.78,153.7,197.0,134.2,False,False,2023-03-05,26-35
+RID65,34,71,Male,South,Former Smoker,Weekly,25.39,115.5,185.6,77.6,False,False,2023-03-06,26-35
+RID66,53,78,Female,South,Non-Smoker,Rarely,19.0,119.5,179.1,97.8,True,False,2023-03-07,46-60
+RID67,67,65,Male,East,Former Smoker,Weekly,27.53,102.2,165.1,80.3,False,False,2023-03-08,60+
+RID68,57,74,Male,North,Smoker,Rarely,34.82,124.7,217.3,90.6,False,False,2023-03-09,46-60
+RID69,21,77,Male,North,Smoker,Daily,25.43,139.0,241.9,128.6,False,True,2023-03-10,18-25
+RID70,19,72,Male,West,Non-Smoker,Rarely,18.16,130.5,199.0,94.6,True,False,2023-03-11,18-25
+RID71,23,91,Female,East,Non-Smoker,Daily,25.68,167.1,199.7,128.0,False,False,2023-03-12,18-25
+RID72,59,77,Female,East,Non-Smoker,Rarely,24.99,120.5,169.5,122.2,False,False,2023-03-13,46-60
+RID73,21,49,Male,East,Smoker,Never,24.65,95.5,154.1,92.7,False,True,2023-03-14,18-25
+RID74,46,92,Male,East,Former Smoker,Daily,28.78,122.6,188.8,89.9,False,False,2023-03-15,46-60
+RID75,35,63,Male,North,Smoker,Rarely,30.51,83.8,160.8,82.1,True,False,2023-03-16,26-35
+RID76,43,48,Female,North,Non-Smoker,Never,27.73,112.0,136.8,81.4,False,True,2023-03-17,36-45
+RID77,61,79,Male,South,Former Smoker,Daily,24.47,144.4,214.1,107.1,False,True,2023-03-18,60+
+RID78,51,93,Male,South,Former Smoker,Never,29.5,124.9,215.6,99.6,True,True,2023-03-19,46-60
+RID79,27,61,Female,East,Smoker,Weekly,19.02,122.7,164.2,87.5,False,False,2023-03-20,26-35
+RID80,53,88,Female,East,Non-Smoker,Weekly,22.14,147.3,197.3,69.0,True,True,2023-03-21,46-60
+RID81,31,72,Male,East,Smoker,Daily,22.58,115.9,220.1,102.1,False,True,2023-03-22,26-35
+RID82,48,74,Female,South,Former Smoker,Rarely,24.88,138.9,196.2,90.6,False,False,2023-03-23,46-60
+RID83,65,73,Female,West,Smoker,Daily,27.03,121.9,154.2,96.1,False,True,2023-03-24,60+
+RID84,32,90,Male,West,Smoker,Never,24.2,125.7,183.0,106.1,False,True,2023-03-25,26-35
+RID85,25,97,Female,South,Non-Smoker,Rarely,21.38,101.7,229.8,50.0,False,True,2023-03-26,18-25
+RID86,31,50,Male,South,Non-Smoker,Weekly,28.9,112.8,197.4,69.3,False,True,2023-03-27,26-35
+RID87,40,79,Female,South,Former Smoker,Rarely,24.06,99.0,206.2,145.9,False,True,2023-03-28,36-45
+RID88,57,85,Male,South,Smoker,Weekly,25.41,118.6,200.2,89.9,False,False,2023-03-29,46-60
+RID89,38,81,Male,South,Smoker,Rarely,27.2,125.9,164.3,49.7,False,True,2023-03-30,36-45
+RID90,33,68,Male,South,Smoker,Rarely,25.16,103.3,171.4,71.0,True,True,2023-03-31,26-35
+RID91,62,73,Female,East,Former Smoker,Rarely,25.17,150.7,200.2,149.7,False,False,2023-04-01,60+
+RID92,35,93,Male,East,Former Smoker,Never,29.12,124.2,214.5,85.9,False,False,2023-04-02,26-35
+RID93,64,90,Female,East,Non-Smoker,Never,25.61,120.9,223.0,123.2,True,False,2023-04-03,60+
+RID94,41,97,Male,East,Non-Smoker,Daily,28.45,131.5,164.3,102.4,False,False,2023-04-04,36-45
+RID95,43,75,Male,South,Non-Smoker,Daily,27.18,107.6,203.0,90.3,False,True,2023-04-05,36-45
+RID96,42,79,Female,West,Smoker,Weekly,33.07,122.5,225.6,115.5,True,False,2023-04-06,36-45
+RID97,62,77,Male,North,Smoker,Never,26.64,109.2,160.4,52.3,False,False,2023-04-07,60+
+RID98,58,96,Male,South,Non-Smoker,Weekly,27.55,143.4,234.6,71.2,False,False,2023-04-08,46-60
+RID99,46,65,Female,North,Smoker,Daily,29.41,104.1,239.2,90.2,False,False,2023-04-09,46-60
+RID100,32,76,Male,West,Non-Smoker,Weekly,25.25,120.9,268.8,73.1,True,True,2023-04-10,26-35
+RID101,62,67,Male,East,Former Smoker,Daily,22.45,124.9,196.9,88.4,True,False,2023-04-11,60+
+RID102,18,77,Male,West,Non-Smoker,Never,23.1,125.9,197.1,117.1,False,True,2023-04-12,18-25
+RID103,42,47,Male,South,Former Smoker,Rarely,23.14,111.3,214.8,102.6,False,False,2023-04-13,36-45
+RID104,24,62,Female,East,Smoker,Never,21.2,106.6,213.9,126.6,False,False,2023-04-14,18-25
+RID105,26,69,Female,South,Non-Smoker,Weekly,26.27,111.5,223.8,103.9,False,False,2023-04-15,26-35
+RID106,41,86,Male,East,Smoker,Weekly,22.48,127.9,213.5,119.8,True,True,2023-04-16,36-45
+RID107,18,75,Female,North,Former Smoker,Never,25.78,117.8,186.8,98.7,False,False,2023-04-17,18-25
+RID108,61,98,Male,North,Former Smoker,Never,24.37,131.9,226.7,88.2,True,False,2023-04-18,60+
+RID109,25,47,Female,North,Former Smoker,Daily,24.83,127.2,157.9,129.6,False,False,2023-04-19,18-25
+RID110,41,84,Male,West,Smoker,Weekly,27.22,85.8,190.2,85.8,False,False,2023-04-20,36-45
+RID111,28,90,Male,South,Smoker,Weekly,22.83,123.7,236.9,106.9,False,False,2023-04-21,26-35
+RID112,68,68,Male,West,Smoker,Never,27.56,153.8,152.5,115.4,False,False,2023-04-22,60+
+RID113,34,94,Male,North,Smoker,Rarely,31.27,139.9,169.7,116.8,True,True,2023-04-23,26-35
+RID114,25,76,Male,South,Former Smoker,Weekly,26.37,126.3,210.2,76.7,False,False,2023-04-24,18-25
+RID115,52,91,Male,North,Former Smoker,Rarely,21.87,104.1,201.8,121.0,False,True,2023-04-25,46-60
+RID116,52,66,Female,West,Non-Smoker,Never,22.54,127.2,163.7,80.4,False,False,2023-04-26,46-60
+RID117,50,67,Male,West,Non-Smoker,Never,24.01,131.1,177.5,116.2,True,False,2023-04-27,46-60
+RID118,22,46,Female,West,Smoker,Daily,22.62,116.2,154.6,110.7,False,False,2023-04-28,18-25
+RID119,59,71,Male,North,Former Smoker,Weekly,21.04,124.8,219.4,116.4,False,True,2023-04-29,46-60
+RID120,56,86,Female,South,Former Smoker,Rarely,25.62,142.6,182.3,75.9,True,False,2023-04-30,46-60
+RID121,58,46,Female,South,Former Smoker,Daily,24.12,107.1,243.8,111.8,False,False,2023-05-01,46-60
+RID122,45,70,Female,North,Non-Smoker,Weekly,25.76,104.1,192.4,121.7,False,False,2023-05-02,36-45
+RID123,24,61,Male,South,Non-Smoker,Daily,29.75,130.4,183.4,103.9,False,False,2023-05-03,18-25
+RID124,26,84,Male,North,Former Smoker,Never,24.05,126.9,180.5,83.6,True,True,2023-05-04,26-35
+RID125,25,77,Female,South,Former Smoker,Weekly,20.26,135.4,182.7,118.4,True,False,2023-05-05,18-25
+RID126,29,53,Male,East,Former Smoker,Daily,23.4,128.5,193.3,102.3,True,False,2023-05-06,26-35
+RID127,51,87,Female,East,Non-Smoker,Daily,28.08,111.5,265.4,66.5,False,True,2023-05-07,46-60
+RID128,50,98,Male,West,Former Smoker,Rarely,27.71,126.5,179.8,82.1,False,True,2023-05-08,46-60
+RID129,65,92,Female,East,Former Smoker,Daily,27.07,102.9,180.8,89.5,True,False,2023-05-09,60+
+RID130,40,83,Female,East,Smoker,Weekly,22.5,116.2,192.0,130.1,False,False,2023-05-10,36-45
+RID131,41,73,Male,East,Smoker,Weekly,28.01,127.5,222.7,126.6,False,False,2023-05-11,36-45
+RID132,54,86,Female,North,Non-Smoker,Rarely,28.91,114.6,147.4,126.5,True,False,2023-05-12,46-60
+RID133,52,99,Male,East,Former Smoker,Weekly,22.22,157.0,203.7,104.6,False,True,2023-05-13,46-60
+RID134,61,70,Female,East,Former Smoker,Never,24.83,91.6,165.5,118.3,False,True,2023-05-14,60+
+RID135,57,79,Female,West,Smoker,Weekly,33.08,111.8,206.6,77.2,False,True,2023-05-15,46-60
+RID136,39,94,Male,East,Non-Smoker,Weekly,22.04,105.9,175.2,100.1,False,True,2023-05-16,36-45
+RID137,44,69,Male,East,Smoker,Daily,18.18,109.5,120.9,109.0,True,False,2023-05-17,36-45
+RID138,52,68,Male,South,Smoker,Daily,30.53,110.4,201.1,78.5,False,True,2023-05-18,46-60
+RID139,18,57,Female,West,Smoker,Weekly,29.55,100.1,200.8,104.2,False,False,2023-05-19,18-25
+RID140,52,51,Male,West,Smoker,Rarely,23.17,131.3,172.6,133.7,False,False,2023-05-20,46-60
+RID141,54,80,Female,West,Former Smoker,Daily,24.55,111.8,170.8,111.2,False,False,2023-05-21,46-60
+RID142,64,89,Female,West,Former Smoker,Rarely,20.1,122.5,150.7,118.4,False,False,2023-05-22,60+
+RID143,31,64,Male,West,Smoker,Weekly,25.36,113.5,213.2,51.0,False,False,2023-05-23,26-35
+RID144,20,45,Male,West,Non-Smoker,Weekly,29.66,109.6,216.5,131.2,False,True,2023-05-24,18-25
+RID145,18,52,Female,North,Non-Smoker,Never,22.83,145.1,163.6,96.3,False,False,2023-05-25,18-25
+RID146,22,90,Female,East,Non-Smoker,Daily,28.51,133.8,173.8,84.6,False,True,2023-05-26,18-25
+RID147,43,60,Male,West,Non-Smoker,Weekly,26.85,92.0,188.1,96.5,False,True,2023-05-27,36-45
+RID148,31,58,Male,East,Smoker,Never,27.31,90.4,258.1,70.3,True,False,2023-05-28,26-35
+RID149,56,56,Male,East,Former Smoker,Daily,23.06,135.6,206.4,121.0,True,True,2023-05-29,46-60
+RID150,44,95,Male,North,Non-Smoker,Weekly,23.58,112.2,161.7,93.3,True,True,2023-05-30,36-45
+RID151,26,67,Male,West,Smoker,Weekly,17.61,95.3,199.1,85.2,False,False,2023-05-31,26-35
+RID152,32,59,Female,South,Non-Smoker,Daily,22.73,135.7,148.7,96.6,False,False,2023-06-01,26-35
+RID153,32,72,Female,North,Non-Smoker,Daily,29.65,122.5,211.5,122.4,False,False,2023-06-02,26-35
+RID154,43,78,Female,South,Smoker,Daily,21.28,123.8,240.3,102.6,False,False,2023-06-03,36-45
+RID155,59,46,Female,East,Former Smoker,Weekly,21.88,132.1,240.4,71.8,False,True,2023-06-04,46-60
+RID156,30,76,Male,East,Former Smoker,Weekly,27.56,100.4,212.0,109.3,True,False,2023-06-05,26-35
+RID157,68,67,Male,North,Smoker,Never,26.61,95.5,172.5,81.4,False,False,2023-06-06,60+
+RID158,49,66,Male,North,Former Smoker,Rarely,27.76,143.7,151.0,56.9,False,False,2023-06-07,46-60
+RID159,56,95,Female,South,Smoker,Daily,20.35,98.4,148.0,129.9,False,False,2023-06-08,46-60
+RID160,66,69,Female,West,Smoker,Weekly,35.26,101.7,105.8,109.1,True,True,2023-06-09,60+
+RID161,69,66,Male,South,Smoker,Weekly,20.14,104.7,210.8,98.4,False,False,2023-06-10,60+
+RID162,49,66,Male,North,Former Smoker,Daily,25.62,151.2,186.9,93.1,False,False,2023-06-11,46-60
+RID163,21,93,Female,South,Smoker,Rarely,24.37,127.4,217.3,127.9,False,True,2023-06-12,18-25
+RID164,47,96,Female,North,Non-Smoker,Daily,20.25,134.5,232.8,161.7,False,False,2023-06-13,46-60
+RID165,54,86,Male,South,Former Smoker,Rarely,23.52,122.9,193.0,109.0,False,False,2023-06-14,46-60
+RID166,40,50,Male,North,Former Smoker,Weekly,25.09,111.0,194.4,79.4,True,True,2023-06-15,36-45
+RID167,56,59,Female,North,Former Smoker,Rarely,22.4,129.5,176.1,96.9,False,False,2023-06-16,46-60
+RID168,62,98,Male,North,Former Smoker,Never,28.75,96.7,179.6,108.6,False,False,2023-06-17,60+
+RID169,32,87,Male,West,Non-Smoker,Weekly,24.35,103.6,211.9,53.0,False,False,2023-06-18,26-35
+RID170,60,81,Male,South,Former Smoker,Never,19.63,131.0,184.8,106.7,False,True,2023-06-19,46-60
+RID171,46,77,Female,South,Former Smoker,Daily,19.3,99.6,180.4,108.7,False,False,2023-06-20,46-60
+RID172,53,52,Female,South,Smoker,Daily,27.42,117.2,189.5,126.5,True,True,2023-06-21,46-60
+RID173,30,97,Female,North,Former Smoker,Daily,19.05,117.8,216.6,124.4,False,False,2023-06-22,26-35
+RID174,49,88,Female,South,Non-Smoker,Rarely,26.27,112.1,169.2,102.2,False,True,2023-06-23,46-60
+RID175,24,88,Female,South,Non-Smoker,Weekly,26.78,90.7,188.0,130.3,False,False,2023-06-24,18-25
+RID176,68,49,Female,North,Non-Smoker,Daily,21.02,110.6,197.4,140.7,True,False,2023-06-25,60+
+RID177,39,83,Female,East,Non-Smoker,Daily,28.56,107.6,224.8,100.6,False,False,2023-06-26,36-45
+RID178,45,48,Male,North,Former Smoker,Weekly,18.13,122.4,182.8,108.4,False,False,2023-06-27,36-45
+RID179,19,50,Male,South,Former Smoker,Daily,26.19,121.7,168.5,64.7,False,False,2023-06-28,18-25
+RID180,59,89,Male,North,Non-Smoker,Never,24.84,125.7,175.5,71.0,False,False,2023-06-29,46-60
+RID181,62,76,Male,East,Non-Smoker,Weekly,24.52,109.9,221.6,83.2,False,True,2023-06-30,60+
+RID182,23,96,Male,North,Former Smoker,Weekly,20.29,127.8,251.0,91.1,False,False,2023-07-01,18-25
+RID183,45,74,Male,South,Non-Smoker,Weekly,21.25,96.7,150.6,78.1,True,True,2023-07-02,36-45
+RID184,45,91,Male,East,Smoker,Never,31.48,92.7,157.1,99.3,False,False,2023-07-03,36-45
+RID185,61,79,Female,West,Non-Smoker,Weekly,29.86,85.0,184.9,91.7,False,True,2023-07-04,60+
+RID186,61,99,Female,South,Non-Smoker,Never,27.97,112.5,193.3,121.4,False,False,2023-07-05,60+
+RID187,37,84,Male,East,Smoker,Weekly,28.76,108.7,213.6,90.5,False,False,2023-07-06,36-45
+RID188,47,96,Male,East,Smoker,Rarely,28.38,131.8,163.3,54.3,True,False,2023-07-07,46-60
+RID189,28,60,Female,West,Former Smoker,Daily,23.71,110.3,158.1,102.5,True,True,2023-07-08,26-35
+RID190,45,57,Male,North,Former Smoker,Rarely,25.19,124.1,194.1,99.7,False,False,2023-07-09,36-45
+RID191,42,94,Male,North,Smoker,Daily,19.11,132.2,182.2,82.8,False,False,2023-07-10,36-45
+RID192,56,86,Female,South,Smoker,Never,24.64,109.7,217.8,101.9,False,False,2023-07-11,46-60
+RID193,50,74,Male,West,Former Smoker,Rarely,29.73,124.5,204.6,78.5,False,False,2023-07-12,46-60
+RID194,18,63,Female,North,Non-Smoker,Weekly,22.36,135.0,206.7,106.6,False,False,2023-07-13,18-25
+RID195,44,61,Male,West,Smoker,Daily,29.09,101.4,186.9,152.7,False,False,2023-07-14,36-45
+RID196,69,63,Female,North,Former Smoker,Daily,25.37,120.4,260.7,63.9,False,False,2023-07-15,60+
+RID197,30,72,Female,East,Non-Smoker,Rarely,19.46,109.8,164.9,89.7,False,False,2023-07-16,26-35
+RID198,58,99,Female,North,Smoker,Never,20.57,102.4,208.3,86.5,False,False,2023-07-17,46-60
+RID199,20,70,Male,West,Non-Smoker,Rarely,28.68,97.0,151.9,91.3,False,True,2023-07-18,18-25
+RID200,56,81,Female,East,Former Smoker,Never,27.21,102.1,157.8,120.4,True,True,2023-07-19,46-60
+RID201,23,70,Male,East,Smoker,Never,25.41,120.9,171.8,110.9,False,True,2023-07-20,18-25
+RID202,25,97,Male,East,Non-Smoker,Daily,23.9,95.8,238.9,117.0,False,True,2023-07-21,18-25
+RID203,44,67,Male,West,Smoker,Rarely,25.84,111.7,197.9,100.6,False,False,2023-07-22,36-45
+RID204,26,53,Male,South,Non-Smoker,Rarely,28.52,132.2,172.3,73.6,False,False,2023-07-23,26-35
+RID205,54,56,Female,South,Former Smoker,Never,30.9,126.7,201.2,77.7,False,True,2023-07-24,46-60
+RID206,50,97,Female,South,Former Smoker,Rarely,31.09,112.0,191.1,114.9,False,False,2023-07-25,46-60
+RID207,68,45,Male,West,Smoker,Weekly,26.49,145.3,175.2,103.4,True,True,2023-07-26,60+
+RID208,59,45,Male,East,Non-Smoker,Weekly,24.31,148.4,148.1,125.2,False,False,2023-07-27,46-60
+RID209,61,91,Female,South,Smoker,Rarely,25.58,120.4,233.2,105.9,False,False,2023-07-28,60+
+RID210,41,78,Male,West,Smoker,Rarely,27.09,83.0,196.3,76.3,False,False,2023-07-29,36-45
+RID211,32,76,Female,South,Non-Smoker,Never,27.07,133.3,255.2,89.6,False,True,2023-07-30,26-35
+RID212,49,98,Male,North,Non-Smoker,Weekly,30.23,85.6,218.2,111.3,True,False,2023-07-31,46-60
+RID213,49,92,Male,South,Non-Smoker,Weekly,33.46,142.1,206.5,114.2,False,False,2023-08-01,46-60
+RID214,41,69,Female,South,Former Smoker,Daily,24.18,136.3,176.9,117.1,False,False,2023-08-02,36-45
+RID215,58,84,Male,East,Smoker,Never,33.62,146.6,157.1,79.0,False,False,2023-08-03,46-60
+RID216,69,89,Female,West,Smoker,Daily,29.69,123.9,183.5,76.0,False,False,2023-08-04,60+
+RID217,66,97,Male,East,Former Smoker,Weekly,24.6,114.6,156.3,96.2,False,True,2023-08-05,60+
+RID218,66,45,Male,East,Non-Smoker,Never,30.99,113.2,209.5,128.8,True,False,2023-08-06,60+
+RID219,69,60,Male,East,Former Smoker,Rarely,31.74,111.8,239.0,86.1,False,False,2023-08-07,60+
+RID220,29,83,Female,East,Former Smoker,Never,23.16,134.7,182.2,109.1,False,False,2023-08-08,26-35
+RID221,56,49,Male,East,Former Smoker,Rarely,31.93,130.7,218.3,109.1,True,True,2023-08-09,46-60
+RID222,19,66,Male,South,Smoker,Rarely,29.3,121.8,169.3,115.2,True,False,2023-08-10,18-25
+RID223,20,73,Male,East,Former Smoker,Never,34.47,109.2,180.9,133.3,True,False,2023-08-11,18-25
+RID224,66,99,Male,East,Smoker,Rarely,23.3,159.4,165.6,131.2,True,False,2023-08-12,60+
+RID225,54,47,Female,West,Smoker,Daily,23.59,133.7,126.0,88.1,False,True,2023-08-13,46-60
+RID226,66,56,Female,North,Smoker,Weekly,16.89,96.0,188.9,58.0,False,False,2023-08-14,60+
+RID227,34,70,Male,South,Non-Smoker,Rarely,27.28,112.3,193.9,86.4,False,True,2023-08-15,26-35
+RID228,66,60,Female,South,Smoker,Daily,26.5,134.0,222.0,101.5,False,False,2023-08-16,60+
+RID229,19,95,Male,South,Smoker,Rarely,22.75,108.0,213.9,92.8,False,False,2023-08-17,18-25
+RID230,19,81,Male,East,Non-Smoker,Weekly,24.67,125.3,214.3,139.4,False,False,2023-08-18,18-25
+RID231,45,66,Male,East,Smoker,Daily,19.76,134.3,160.8,100.4,False,False,2023-08-19,36-45
+RID232,40,73,Female,East,Former Smoker,Weekly,29.79,69.2,203.8,113.1,False,False,2023-08-20,36-45
+RID233,54,58,Female,West,Former Smoker,Weekly,23.04,118.4,237.5,104.3,False,False,2023-08-21,46-60
+RID234,49,72,Female,North,Smoker,Daily,37.38,119.0,201.4,93.1,False,True,2023-08-22,46-60
+RID235,50,49,Female,East,Non-Smoker,Daily,24.3,113.8,244.9,61.5,False,False,2023-08-23,46-60
+RID236,18,91,Female,North,Former Smoker,Daily,21.96,124.5,250.6,98.4,True,False,2023-08-24,18-25
+RID237,36,93,Female,West,Non-Smoker,Never,23.35,129.9,181.9,165.1,False,False,2023-08-25,36-45
+RID238,19,74,Female,South,Non-Smoker,Daily,19.35,122.1,169.1,75.1,False,True,2023-08-26,18-25
+RID239,61,90,Female,East,Former Smoker,Daily,26.93,114.4,167.2,63.7,False,False,2023-08-27,60+
+RID240,43,96,Female,North,Non-Smoker,Daily,23.32,129.5,144.5,138.7,False,False,2023-08-28,36-45
+RID241,49,49,Male,North,Former Smoker,Daily,29.53,120.7,174.4,114.8,False,True,2023-08-29,46-60
+RID242,23,56,Female,East,Non-Smoker,Rarely,23.9,116.5,226.2,103.7,False,False,2023-08-30,18-25
+RID243,49,60,Female,South,Former Smoker,Never,30.54,100.3,123.9,127.3,False,True,2023-08-31,46-60
+RID244,21,70,Female,South,Smoker,Weekly,28.03,96.6,158.9,83.4,False,False,2023-09-01,18-25
+RID245,28,70,Female,South,Former Smoker,Daily,25.11,100.0,186.2,97.9,False,True,2023-09-02,26-35
+RID246,34,92,Female,West,Former Smoker,Rarely,31.32,124.2,163.7,119.1,False,True,2023-09-03,26-35
+RID247,55,65,Female,North,Former Smoker,Rarely,28.81,118.8,174.2,142.2,False,False,2023-09-04,46-60
+RID248,41,83,Female,North,Former Smoker,Rarely,36.78,97.8,174.6,76.6,True,False,2023-09-05,36-45
+RID249,22,80,Female,North,Non-Smoker,Weekly,23.36,129.7,182.3,125.6,False,False,2023-09-06,18-25
+RID250,69,77,Female,West,Smoker,Daily,25.31,140.6,168.1,107.6,True,True,2023-09-07,60+
+RID251,51,74,Female,North,Former Smoker,Never,31.27,111.0,165.7,103.3,False,False,2023-09-08,46-60
+RID252,23,81,Female,West,Non-Smoker,Never,18.83,93.9,218.0,99.8,False,False,2023-09-09,18-25
+RID253,39,67,Male,South,Smoker,Rarely,30.27,109.4,221.5,72.3,True,False,2023-09-10,36-45
+RID254,28,54,Male,East,Smoker,Weekly,26.76,132.8,148.6,119.3,True,True,2023-09-11,26-35
+RID255,65,98,Female,North,Smoker,Weekly,21.45,128.2,107.2,84.4,False,False,2023-09-12,60+
+RID256,33,49,Female,North,Smoker,Weekly,19.55,106.2,221.9,78.4,False,False,2023-09-13,26-35
+RID257,50,80,Male,South,Former Smoker,Never,22.31,142.8,153.1,117.7,True,False,2023-09-14,46-60
+RID258,26,78,Female,East,Former Smoker,Rarely,15.86,140.2,196.4,115.8,False,True,2023-09-15,26-35
+RID259,23,96,Male,West,Non-Smoker,Daily,23.04,109.0,143.0,101.6,True,False,2023-09-16,18-25
+RID260,33,75,Male,East,Non-Smoker,Never,27.49,108.9,228.9,121.6,False,False,2023-09-17,26-35
+RID261,46,54,Male,South,Non-Smoker,Rarely,23.09,111.1,266.3,128.5,False,False,2023-09-18,46-60
+RID262,20,63,Male,South,Smoker,Rarely,30.55,112.4,195.5,126.2,False,True,2023-09-19,18-25
+RID263,37,76,Male,East,Smoker,Daily,31.64,134.3,187.2,89.4,False,False,2023-09-20,36-45
+RID264,53,45,Female,West,Former Smoker,Daily,30.1,126.4,180.3,120.3,False,True,2023-09-21,46-60
+RID265,36,49,Male,West,Smoker,Daily,25.92,133.2,213.5,104.2,False,False,2023-09-22,36-45
+RID266,43,89,Female,North,Smoker,Weekly,15.7,130.1,207.0,134.5,True,False,2023-09-23,36-45
+RID267,20,48,Female,West,Smoker,Daily,22.19,145.7,220.1,97.5,True,True,2023-09-24,18-25
+RID268,36,60,Male,East,Non-Smoker,Rarely,24.43,104.1,171.2,92.9,True,False,2023-09-25,36-45
+RID269,37,68,Male,South,Non-Smoker,Daily,21.42,125.7,200.2,87.7,False,True,2023-09-26,36-45
+RID270,49,60,Female,North,Former Smoker,Rarely,24.44,87.4,173.7,103.8,True,False,2023-09-27,46-60
+RID271,24,99,Male,North,Smoker,Never,31.44,100.2,158.3,109.3,False,False,2023-09-28,18-25
+RID272,69,46,Male,South,Smoker,Weekly,18.42,118.9,188.8,109.7,False,False,2023-09-29,60+
+RID273,58,93,Female,West,Former Smoker,Never,32.25,126.3,162.3,107.0,False,True,2023-09-30,46-60
+RID274,50,72,Female,South,Smoker,Never,28.54,118.5,225.2,113.4,False,False,2023-10-01,46-60
+RID275,57,76,Male,West,Smoker,Rarely,26.07,111.5,164.1,95.5,False,False,2023-10-02,46-60
+RID276,56,71,Female,South,Non-Smoker,Never,22.15,114.2,200.9,82.5,False,False,2023-10-03,46-60
+RID277,35,64,Male,East,Former Smoker,Rarely,21.5,140.5,171.9,80.8,False,False,2023-10-04,26-35
+RID278,57,68,Male,West,Former Smoker,Daily,18.5,114.2,198.3,119.5,False,False,2023-10-05,46-60
+RID279,18,56,Male,East,Former Smoker,Daily,31.87,146.2,174.3,109.4,False,False,2023-10-06,18-25
+RID280,28,94,Female,North,Former Smoker,Rarely,31.15,131.9,152.3,62.9,True,False,2023-10-07,26-35
+RID281,45,79,Female,South,Non-Smoker,Daily,19.37,126.9,204.5,121.9,False,True,2023-10-08,36-45
+RID282,42,77,Female,North,Non-Smoker,Weekly,22.79,102.1,182.9,137.6,False,False,2023-10-09,36-45
+RID283,67,77,Female,North,Smoker,Never,26.73,134.0,198.6,85.7,True,False,2023-10-10,60+
+RID284,40,95,Female,North,Smoker,Weekly,23.8,112.6,177.1,106.7,False,False,2023-10-11,36-45
+RID285,48,87,Male,North,Smoker,Never,17.33,102.1,150.2,90.5,True,False,2023-10-12,46-60
+RID286,47,81,Male,South,Smoker,Daily,22.37,127.7,222.5,112.6,False,False,2023-10-13,46-60
+RID287,59,56,Male,North,Non-Smoker,Weekly,32.8,99.2,212.1,76.7,True,True,2023-10-14,46-60
+RID288,52,47,Male,South,Former Smoker,Daily,22.64,108.6,173.0,98.6,False,False,2023-10-15,46-60
+RID289,24,45,Female,South,Non-Smoker,Never,24.35,119.8,192.1,119.6,False,False,2023-10-16,18-25
+RID290,33,77,Male,East,Smoker,Rarely,20.42,153.3,221.3,124.7,False,False,2023-10-17,26-35
+RID291,43,84,Female,West,Non-Smoker,Rarely,27.35,109.7,176.3,108.5,False,True,2023-10-18,36-45
+RID292,65,54,Male,West,Former Smoker,Weekly,25.46,113.1,180.9,93.2,False,True,2023-10-19,60+
+RID293,69,87,Female,South,Former Smoker,Daily,22.03,131.0,197.3,68.1,False,True,2023-10-20,60+
+RID294,66,88,Female,East,Non-Smoker,Daily,19.78,101.4,176.2,84.8,True,False,2023-10-21,60+
+RID295,19,73,Male,South,Non-Smoker,Weekly,30.62,126.6,215.7,90.6,False,True,2023-10-22,18-25
+RID296,18,57,Male,South,Non-Smoker,Rarely,18.58,138.1,184.9,86.0,False,False,2023-10-23,18-25
+RID297,65,56,Male,South,Smoker,Never,27.02,115.4,166.5,101.2,False,False,2023-10-24,60+
+RID298,29,75,Male,East,Non-Smoker,Weekly,16.38,135.4,208.3,93.2,False,True,2023-10-25,26-35
+RID299,22,90,Female,West,Non-Smoker,Never,27.83,124.4,155.7,103.4,False,False,2023-10-26,18-25
+RID300,54,46,Male,East,Non-Smoker,Rarely,28.88,109.0,250.4,124.1,False,False,2023-10-27,46-60

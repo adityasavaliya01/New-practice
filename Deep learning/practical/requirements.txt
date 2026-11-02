@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+opencv-contrib-python
+scikit-image
+transformers<5
+torch

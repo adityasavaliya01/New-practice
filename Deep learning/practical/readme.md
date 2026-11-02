@@ -6,6 +6,8 @@ This repository contains five mini-projects completed as part of the Deep Learni
 
 The main objective is to understand different deep learning architectures, perform data preprocessing, build and evaluate models, and explore their applications in real-world problems.
 
+Video link - https://drive.google.com/file/d/1uVA-pm_TVvdmFmLyz2GbrCQUMThlDfbY/view?usp=sharing
+
 ## 🎯 Projects Included
 
 ### 1. Artificial Neural Network (ANN)
